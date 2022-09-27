@@ -1,5 +1,10 @@
-body {
+html {
   padding: 0;
   margin: 0;
+}
+
+html body {
+  padding: 0;
+  margin: -20px 0px 0px 0px;
 }
 /*# sourceMappingURL=app.css.map */
