@@ -13,7 +13,7 @@ const Header: FC = () => {
 					<Link to='/add_word'>Add</Link>
 				</li>
 				<li>
-					<Link to='/history'>History</Link>
+					<Link to='/result'>Result</Link>
 				</li>
 				<li>
 					<Link to='/check_word'>Check</Link>
